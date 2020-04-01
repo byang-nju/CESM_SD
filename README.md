@@ -1,3 +1,3 @@
 # CESM_SD
 
-outputs from CESM2 model with default and revised deep convective closure.
+outputs from CESM1.2.1 (CAM5) model with default and revised deep convective closure.
